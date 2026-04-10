@@ -11,9 +11,9 @@ KISIA(한국정보보호산업협회) 클라우드 보안 교육을 기반으로
 
 - [N2SF 개요 및 적용절차, 보안 통제 체계](./governance-trend/01-n2sf.md)
 - [Zero Trust Architecture](./governance-trend/02-zero-trust.md)
-- [CSAP 사이버 보안 실태평가](./governance-trend/03-csap.md)
-- [클라우드 보안 사고 트렌드](./governance-trend/04-incident-trends.md)
-- [국내 CSP 현황 및 기술 분석](./governance-trend/05-csp-analysis.md)
+- [CSAP 사이버 보안 실태평가]
+- [클라우드 보안 사고 트렌드]
+- [국내 CSP 현황 및 기술 분석]
 
 <br>
 
