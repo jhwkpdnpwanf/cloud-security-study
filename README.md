@@ -19,7 +19,7 @@ KISIA(한국정보보호산업협회) 클라우드 보안 교육을 기반으로
 
 ### 2. 클라우드 네이티브 및 컨테이너 보안
 
-- [클라우드 네이티브 개요](./cloud-native-security/01-cloud-native-overview.md)
+- [클라우드 네이티브 개요](./cloud-native-container-security/01-cloud-native-overview.md)
 - [컨테이너 환경의 보안 위협]
 - [Misconfiguration 위험]
 - [IaC 개념과 보안]
